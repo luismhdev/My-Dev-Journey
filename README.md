@@ -10,25 +10,25 @@ This repository serves as my technical log and project portfolio. Here, I docume
 - [x] Environment Setup (Ubuntu, VS Code, Git/GitHub)
 - [ ] Web Layout & Basic Structure (HTML5)
 - [ ] Styling & Responsive Design (CSS3)
-- [ ] Course: Introduction to Front-End Development (Meta/Coursera) 🎓
+- [ ] Course: Introduction to Front-End Development (Meta) 🎓
 
 ### 🟡 Phase 2: The King's Language (JavaScript)
 - [ ] Programming Logic & Algorithms
 - [ ] DOM Manipulation & Web Events
 - [ ] Asynchronous Programming (Fetch/APIs)
-- [ ] Course: Programming with JavaScript (Meta/Coursera) 🎓
+- [ ] Course: Programming with JavaScript (Meta) 🎓
 
 ### 🔵 Phase 3: Modern Frontend (React)
 - [ ] Components, Props & Virtual DOM
 - [ ] Essential Hooks (useState, useEffect)
 - [ ] State Management & Navigation
-- [ ] Course: React Basics & Advanced React (Meta/Coursera) 🎓
+- [ ] Course: React Basics & Advanced React (Meta) 🎓
 
 ### 🟣 Phase 4: Data Storage (SQL & NoSQL)
 - [ ] Relational SQL: Structures & Management with MySQL
 - [ ] NoSQL: Data Flexibility with MongoDB
 - [ ] Course: Database Structures and Management with MySQL (Meta) 🎓
-- [ ] Course: NoSQL Database Basics (IBM/Coursera) 🎓
+- [ ] Course: NoSQL Database Basics (IBM) 🎓
 
 ### 🔴 Phase 5: Backend & Servers (Node.js & Express)
 - [ ] Server Creation & Runtime Environments with Node.js
@@ -45,5 +45,4 @@ This repository serves as my technical log and project portfolio. Here, I docume
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-*"Consistency is the key to mastery."*
+
