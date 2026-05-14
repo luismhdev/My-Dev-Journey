@@ -1,0 +1,98 @@
+#titulo {
+    color: tomato;
+    font-size: 45px;
+}
+
+p.especial {
+    color: mediumaquamarine;
+}
+
+p.texto {
+    color: slateblue;
+}
+
+div p {
+    color: aquamarine;
+}
+
+div h2, div h3{
+    color: brown
+}
+
+/*  * {
+    font-size: 32px;
+}
+ */
+/*Sopa de caracol*/
+
+/*
+.color {
+
+    color: #1b66d6;
+}
+    .color{
+
+    color: rgb(8, 102, 114)
+}
+*/
+
+.color {
+    /* border: 5px rgb(228, 148, 204) inset; */
+    /*
+    dotted
+    dashed
+    solid
+    double
+    groove
+    ridge
+    inset
+    outset
+    none 
+    hidden
+    solid
+    */
+border-style: inset;
+border-color: blue;
+border-radius: 5px;
+border-width: 5px ;
+}
+
+#fondo {
+    background-color: rgba(255, 0, 0);
+   /* opacity: 0.3;*/
+    height: 300px;
+    background: #f00 url(Aprendiendo-MERN/assets/images.jpeg) repeat-y center bottom / 100px 100px;
+}
+
+.margen {
+    background-color: chocolate;
+    margin: 15px;
+    padding: 30px 15px 5px;
+    border: solid 1px black;
+    height: 100px;
+    width: 50px;
+    overflow: scroll;
+    outline: 1px solid red;
+}
+.text {
+    font-family: "Supermercado One", sans-serif;
+    text-align: justify;
+    text-decoration: overline;
+    text-shadow: 3px 5px 5px blue;
+}
+
+a:link {
+    color: blueviolet;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color:yellow ;
+}
+
+a:visited {
+    color: red;
+}

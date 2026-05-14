@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        table, th, td {
+  border: 1px solid black;
+ }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Web</title>
+</head>
+<body>
+    <table style="width: 300px;">
+        <thead>
+            <th>Precio</th>
+            <th>Producto</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Hola Beats</td>
+            <td>Gratis</td>
+        </tr>
+          <tr>
+            <td>Chanchito Feliz</td>
+            <td>19,95$</td>
+        </tr>
+         <tr>
+            <td>Chanchito Feliz muy feliz</td>
+            <td>29,95$</td>
+        </tr>
+        </tbody>
+        <tfoot>
+            <td></td>
+            <td>Total: 49,80$</td>
+        </tfoot>
+    </table>
+    <header>
+        <h4>Sopas</h4>
+    <ol type="A">
+        <li>Sopa de mariscos</li>
+            <ol>
+                <li style="list-style-type: lower-greek;">Camaron</li>
+                <li style="list-style-type: lower-greek;">Anchoa</li>
+            </ol>
+        <li>Sopa negra </li>
+    </ol>
+    <ul>
+        <li>Sopa de mariscos</li>
+        <li>Sopa negra </li>
+    </ul>
+
+    </header>
+     <form action="/formulario" method="post">
+        <fieldset>
+            <legend>Informacion personal</legend>
+        <label for="nombre">Nombre: </label>
+        <input type="text" id="nombre" placeholder="Ej: Luis" name="name"/>
+            <br>
+        <label for="apellido">Apellido: </label>
+        <input type="text" id="apellido" placeholder="Ej: Matarrita" name="last_name"/>
+            <br>
+        <label for="comentario" id="comentario">Comentario:</label>
+        <textarea cols="50" rows="20" id="comentario" name="comentario" placeholder="Ingrese un comentario"></textarea>
+        <br>
+        <button type="submit">Enviar</button>
+        </fieldset>
+    </form>
+   <h1>Mi primer heading</h1>
+   <h2>Mi segundo heading</h2>
+   <h3>Mi tercer heading</h3>
+   <h4>Mi cuarto heading</h4>
+   <h5>Mi quiton heading</h5>
+   <h6>Mi sexto heading</h6>
+   <p>Chanchito feliz esta muy feliz</p>
+   <p>Chanchito triste esta muy triste</p>
+   <hr>
+   <h2>Chanchito Felipe</h2>
+   <p>Texto un poco mas</p>
+   <!--Comentario-->
+   <p>Este comentario es <span style="color: rgb(31, 39, 153);">mucho mas largo</span> y es para mostrar <br> la etiqueta span</p>
+
+    <a target="_blank" href="https://www.google.com">Ir a google</a>
+
+    <img src="Aprendiendo-MERN/assets/foto-luis.jpeg" width="400" height="400"/>
+
+
+</body>
+</html>
